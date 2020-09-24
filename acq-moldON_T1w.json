@@ -8,9 +8,9 @@
 "DeviceSerialNumber": 67080,
 "StationName": "MRTRI03TX72",
 "SoftwareVersions": "syngo MR E11",
-"ScanningSequence": "GR\IR",
-"SequenceVariant": "SK\SP\MP",
-"ScanOptions": "IR\WE",
+"ScanningSequence": "GRIR",
+"SequenceVariant": "SKSPMP",
+"ScanOptions": "IRWE",
 "InversionTime": 1060,
 "InstitutionName": "CBIC",
 "InstitutionAddress": "E 72nd Street 516,NYC ,NYC,US,10021"
